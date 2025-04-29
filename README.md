@@ -21,6 +21,8 @@ Yêu cầu:
 - Ghi dữ liệu vào trong file excel
 # Bài làm
 Bài 1:  
+![image](https://github.com/user-attachments/assets/dd00ab87-6b4b-49f4-9771-09a1e28b173c)  
+sau khi lọc dữ liệu  
 ![image](https://github.com/user-attachments/assets/ca40f9f8-a2de-4640-9ea9-0c5aef4a71d2)  
 Bài 2:  
 ![image](https://github.com/user-attachments/assets/70e7f628-f797-40e5-b617-12ee8273e1fd)  
