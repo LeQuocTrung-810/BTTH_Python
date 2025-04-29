@@ -1,0 +1,944 @@
+number,name,type,height,weight,ThumbnailImage
+001,Bulbasaur,"['grass', 'poison']",28.0,15.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png
+002,Ivysaur,"['grass', 'poison']",39.0,28.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/002.png
+003,Venusaur,"['grass', 'poison']",94.0,342.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png
+003,Venusaur,"['grass', 'poison']",79.0,220.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/003.png
+004,Charmander,['fire'],24.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png
+005,Charmeleon,['fire'],43.0,41.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/005.png
+006,Charizard,"['fire', 'flying']",67.0,221.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png
+006,Charizard,"['fire', 'dragon']",67.0,243.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png
+006,Charizard,"['fire', 'flying']",67.0,199.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/006.png
+007,Squirtle,['water'],20.0,19.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/007.png
+008,Wartortle,['water'],39.0,49.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/008.png
+009,Blastoise,['water'],63.0,222.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png
+009,Blastoise,['water'],63.0,188.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/009.png
+010,Caterpie,['bug'],12.0,6.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png
+011,Metapod,['bug'],28.0,21.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/011.png
+012,Butterfree,"['bug', 'flying']",43.0,70.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/012.png
+013,Weedle,"['bug', 'poison']",12.0,7.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/013.png
+014,Kakuna,"['bug', 'poison']",24.0,22.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/014.png
+015,Beedrill,"['bug', 'poison']",55.0,89.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png
+015,Beedrill,"['bug', 'poison']",39.0,65.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/015.png
+016,Pidgey,"['normal', 'flying']",12.0,4.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/016.png
+017,Pidgeotto,"['normal', 'flying']",43.0,66.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/017.png
+018,Pidgeot,"['normal', 'flying']",87.0,111.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png
+018,Pidgeot,"['normal', 'flying']",59.0,87.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/018.png
+019,Rattata,"['dark', 'normal']",12.0,8.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png
+019,Rattata,['normal'],12.0,7.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/019.png
+020,Raticate,"['dark', 'normal']",28.0,56.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png
+020,Raticate,['normal'],28.0,40.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/020.png
+021,Spearow,"['normal', 'flying']",12.0,4.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/021.png
+022,Fearow,"['normal', 'flying']",47.0,83.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/022.png
+023,Ekans,['poison'],79.0,15.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/023.png
+024,Arbok,['poison'],138.0,143.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/024.png
+025,Pikachu,['electric'],16.0,13.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png
+026,Raichu,"['electric', 'psychic']",28.0,46.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png
+026,Raichu,['electric'],31.0,66.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/026.png
+027,Sandshrew,"['ice', 'steel']",28.0,88.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png
+027,Sandshrew,['ground'],24.0,26.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/027.png
+028,Sandslash,"['ice', 'steel']",47.0,121.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png
+028,Sandslash,['ground'],39.0,65.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/028.png
+029,Nidoranâ™€,['poison'],16.0,15.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/029.png
+030,Nidorina,['poison'],31.0,44.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/030.png
+031,Nidoqueen,"['poison', 'ground']",51.0,132.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/031.png
+032,Nidoranâ™‚,['poison'],20.0,19.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/032.png
+033,Nidorino,['poison'],35.0,43.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/033.png
+034,Nidoking,"['poison', 'ground']",55.0,136.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/034.png
+035,Clefairy,['fairy'],24.0,16.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/035.png
+036,Clefable,['fairy'],51.0,88.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/036.png
+037,Vulpix,['ice'],24.0,21.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png
+037,Vulpix,['fire'],24.0,21.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png
+038,Ninetales,"['ice', 'fairy']",43.0,43.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png
+038,Ninetales,['fire'],43.0,43.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/038.png
+039,Jigglypuff,"['normal', 'fairy']",20.0,12.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/039.png
+040,Wigglytuff,"['normal', 'fairy']",39.0,26.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/040.png
+041,Zubat,"['poison', 'flying']",31.0,16.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/041.png
+042,Golbat,"['poison', 'flying']",63.0,121.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/042.png
+043,Oddish,"['grass', 'poison']",20.0,11.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/043.png
+044,Gloom,"['grass', 'poison']",31.0,19.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/044.png
+045,Vileplume,"['grass', 'poison']",47.0,41.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/045.png
+046,Paras,"['bug', 'grass']",12.0,11.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/046.png
+047,Parasect,"['bug', 'grass']",39.0,65.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/047.png
+048,Venonat,"['bug', 'poison']",39.0,66.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/048.png
+049,Venomoth,"['bug', 'poison']",59.0,27.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/049.png
+050,Diglett,"['ground', 'steel']",8.0,2.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png
+050,Diglett,['ground'],8.0,1.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/050.png
+051,Dugtrio,"['ground', 'steel']",28.0,146.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png
+051,Dugtrio,['ground'],28.0,73.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/051.png
+052,Meowth,['dark'],16.0,9.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png
+052,Meowth,['normal'],16.0,9.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/052.png
+053,Persian,['dark'],43.0,72.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png
+053,Persian,['normal'],39.0,70.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/053.png
+054,Psyduck,['water'],31.0,43.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/054.png
+055,Golduck,['water'],67.0,168.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/055.png
+056,Mankey,['fighting'],20.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/056.png
+057,Primeape,['fighting'],39.0,70.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/057.png
+058,Growlithe,['fire'],28.0,41.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/058.png
+059,Arcanine,['fire'],75.0,341.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/059.png
+060,Poliwag,['water'],24.0,27.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/060.png
+061,Poliwhirl,['water'],39.0,44.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/061.png
+062,Poliwrath,"['water', 'fighting']",51.0,119.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/062.png
+063,Abra,['psychic'],35.0,43.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/063.png
+064,Kadabra,['psychic'],51.0,124.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/064.png
+065,Alakazam,['psychic'],47.0,105.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png
+065,Alakazam,['psychic'],59.0,105.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/065.png
+066,Machop,['fighting'],31.0,43.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/066.png
+067,Machoke,['fighting'],59.0,155.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/067.png
+068,Machamp,['fighting'],63.0,286.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/068.png
+069,Bellsprout,"['grass', 'poison']",28.0,8.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/069.png
+070,Weepinbell,"['grass', 'poison']",39.0,14.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/070.png
+071,Victreebel,"['grass', 'poison']",67.0,34.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/071.png
+072,Tentacool,"['water', 'poison']",35.0,100.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/072.png
+073,Tentacruel,"['water', 'poison']",63.0,121.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/073.png
+074,Geodude,"['rock', 'electric']",16.0,44.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png
+074,Geodude,"['rock', 'ground']",16.0,44.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/074.png
+075,Graveler,"['rock', 'electric']",39.0,242.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png
+075,Graveler,"['rock', 'ground']",39.0,231.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/075.png
+076,Golem,"['rock', 'electric']",67.0,696.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png
+076,Golem,"['rock', 'ground']",55.0,661.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/076.png
+077,Ponyta,['fire'],39.0,66.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/077.png
+078,Rapidash,['fire'],67.0,209.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/078.png
+079,Slowpoke,"['water', 'psychic']",47.0,79.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/079.png
+080,Slowbro,"['water', 'psychic']",79.0,264.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png
+080,Slowbro,"['water', 'psychic']",63.0,173.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/080.png
+081,Magnemite,"['electric', 'steel']",12.0,13.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/081.png
+082,Magneton,"['electric', 'steel']",39.0,132.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/082.png
+083,Farfetch'd,"['normal', 'flying']",31.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/083.png
+084,Doduo,"['normal', 'flying']",55.0,86.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/084.png
+085,Dodrio,"['normal', 'flying']",71.0,187.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/085.png
+086,Seel,['water'],43.0,198.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/086.png
+087,Dewgong,"['water', 'ice']",67.0,264.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/087.png
+088,Grimer,"['poison', 'dark']",28.0,92.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png
+088,Grimer,['poison'],35.0,66.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/088.png
+089,Muk,"['poison', 'dark']",39.0,114.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png
+089,Muk,['poison'],47.0,66.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/089.png
+090,Shellder,['water'],12.0,8.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/090.png
+091,Cloyster,"['water', 'ice']",59.0,292.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/091.png
+092,Gastly,"['ghost', 'poison']",51.0,0.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/092.png
+093,Haunter,"['ghost', 'poison']",63.0,0.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/093.png
+094,Gengar,"['ghost', 'poison']",55.0,89.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png
+094,Gengar,"['ghost', 'poison']",59.0,89.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/094.png
+095,Onix,"['rock', 'ground']",346.0,463.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/095.png
+096,Drowzee,['psychic'],39.0,71.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/096.png
+097,Hypno,['psychic'],63.0,166.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/097.png
+098,Krabby,['water'],16.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/098.png
+099,Kingler,['water'],51.0,132.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/099.png
+100,Voltorb,['electric'],20.0,22.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/100.png
+101,Electrode,['electric'],47.0,146.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/101.png
+102,Exeggcute,"['grass', 'psychic']",16.0,5.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/102.png
+103,Exeggutor,"['grass', 'dragon']",429.0,916.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png
+103,Exeggutor,"['grass', 'psychic']",79.0,264.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/103.png
+104,Cubone,['ground'],16.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/104.png
+105,Marowak,"['fire', 'ghost']",39.0,75.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png
+105,Marowak,['ground'],39.0,99.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/105.png
+106,Hitmonlee,['fighting'],59.0,109.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/106.png
+107,Hitmonchan,['fighting'],55.0,110.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/107.png
+108,Lickitung,['normal'],47.0,144.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/108.png
+109,Koffing,['poison'],24.0,2.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/109.png
+110,Weezing,['poison'],47.0,20.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/110.png
+111,Rhyhorn,"['ground', 'rock']",39.0,253.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/111.png
+112,Rhydon,"['ground', 'rock']",75.0,264.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/112.png
+113,Chansey,['normal'],43.0,76.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/113.png
+114,Tangela,['grass'],39.0,77.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/114.png
+115,Kangaskhan,['normal'],87.0,220.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png
+115,Kangaskhan,['normal'],87.0,176.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/115.png
+116,Horsea,['water'],16.0,17.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/116.png
+117,Seadra,['water'],47.0,55.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/117.png
+118,Goldeen,['water'],24.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/118.png
+119,Seaking,['water'],51.0,86.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/119.png
+120,Staryu,['water'],31.0,76.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/120.png
+121,Starmie,"['water', 'psychic']",43.0,176.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/121.png
+122,Mr. Mime,"['psychic', 'fairy']",51.0,120.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/122.png
+123,Scyther,"['bug', 'flying']",59.0,123.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/123.png
+124,Jynx,"['ice', 'psychic']",55.0,89.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/124.png
+125,Electabuzz,['electric'],43.0,66.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/125.png
+126,Magmar,['fire'],51.0,98.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/126.png
+127,Pinsir,"['bug', 'flying']",67.0,130.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png
+127,Pinsir,['bug'],59.0,121.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/127.png
+128,Tauros,['normal'],55.0,194.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/128.png
+129,Magikarp,['water'],35.0,22.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/129.png
+130,Gyarados,"['water', 'dark']",256.0,672.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png
+130,Gyarados,"['water', 'flying']",256.0,518.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/130.png
+131,Lapras,"['water', 'ice']",98.0,485.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/131.png
+132,Ditto,['normal'],12.0,8.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/132.png
+133,Eevee,['normal'],12.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/133.png
+134,Vaporeon,['water'],39.0,63.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/134.png
+135,Jolteon,['electric'],31.0,54.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/135.png
+136,Flareon,['fire'],35.0,55.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/136.png
+137,Porygon,['normal'],31.0,80.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/137.png
+138,Omanyte,"['rock', 'water']",16.0,16.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/138.png
+139,Omastar,"['rock', 'water']",39.0,77.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/139.png
+140,Kabuto,"['rock', 'water']",20.0,25.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/140.png
+141,Kabutops,"['rock', 'water']",51.0,89.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/141.png
+142,Aerodactyl,"['rock', 'flying']",83.0,174.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png
+142,Aerodactyl,"['rock', 'flying']",71.0,130.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/142.png
+143,Snorlax,['normal'],83.0,1014.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/143.png
+144,Articuno,"['ice', 'flying']",67.0,122.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png
+145,Zapdos,"['electric', 'flying']",63.0,116.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/145.png
+146,Moltres,"['fire', 'flying']",79.0,132.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/146.png
+147,Dratini,['dragon'],71.0,7.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/147.png
+148,Dragonair,['dragon'],157.0,36.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/148.png
+149,Dragonite,"['dragon', 'flying']",87.0,463.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/149.png
+150,Mewtwo,['psychic'],59.0,72.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png
+150,Mewtwo,"['psychic', 'fighting']",91.0,280.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png
+150,Mewtwo,['psychic'],79.0,269.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/150.png
+151,Mew,['psychic'],16.0,8.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/151.png
+152,Chikorita,['grass'],35.0,14.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/152.png
+153,Bayleef,['grass'],47.0,34.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/153.png
+154,Meganium,['grass'],71.0,221.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/154.png
+155,Cyndaquil,['fire'],20.0,17.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/155.png
+156,Quilava,['fire'],35.0,41.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/156.png
+157,Typhlosion,['fire'],67.0,175.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/157.png
+158,Totodile,['water'],24.0,20.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/158.png
+159,Croconaw,['water'],43.0,55.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/159.png
+160,Feraligatr,['water'],91.0,195.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/160.png
+161,Sentret,['normal'],31.0,13.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/161.png
+162,Furret,['normal'],71.0,71.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/162.png
+163,Hoothoot,"['normal', 'flying']",28.0,46.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/163.png
+164,Noctowl,"['normal', 'flying']",63.0,89.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/164.png
+165,Ledyba,"['bug', 'flying']",39.0,23.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/165.png
+166,Ledian,"['bug', 'flying']",55.0,78.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/166.png
+167,Spinarak,"['bug', 'poison']",20.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/167.png
+168,Ariados,"['bug', 'poison']",43.0,73.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/168.png
+169,Crobat,"['poison', 'flying']",71.0,165.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/169.png
+170,Chinchou,"['water', 'electric']",20.0,26.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/170.png
+171,Lanturn,"['water', 'electric']",47.0,49.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/171.png
+172,Pichu,['electric'],12.0,4.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/172.png
+173,Cleffa,['fairy'],12.0,6.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/173.png
+174,Igglybuff,"['normal', 'fairy']",12.0,2.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/174.png
+175,Togepi,['fairy'],12.0,3.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/175.png
+176,Togetic,"['fairy', 'flying']",24.0,7.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/176.png
+177,Natu,"['psychic', 'flying']",8.0,4.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/177.png
+178,Xatu,"['psychic', 'flying']",59.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/178.png
+179,Mareep,['electric'],24.0,17.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/179.png
+180,Flaaffy,['electric'],31.0,29.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/180.png
+181,Ampharos,"['electric', 'dragon']",55.0,135.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181.png
+181,Ampharos,['electric'],55.0,135.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/181.png
+182,Bellossom,['grass'],16.0,12.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/182.png
+183,Marill,"['water', 'fairy']",16.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/183.png
+184,Azumarill,"['water', 'fairy']",31.0,62.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/184.png
+185,Sudowoodo,['rock'],47.0,83.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/185.png
+186,Politoed,['water'],43.0,74.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/186.png
+187,Hoppip,"['grass', 'flying']",16.0,1.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/187.png
+188,Skiploom,"['grass', 'flying']",24.0,2.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/188.png
+189,Jumpluff,"['grass', 'flying']",31.0,6.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/189.png
+190,Aipom,['normal'],31.0,25.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/190.png
+191,Sunkern,['grass'],12.0,4.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/191.png
+192,Sunflora,['grass'],31.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/192.png
+193,Yanma,"['bug', 'flying']",47.0,83.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/193.png
+194,Wooper,"['water', 'ground']",16.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/194.png
+195,Quagsire,"['water', 'ground']",55.0,165.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/195.png
+196,Espeon,['psychic'],35.0,58.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/196.png
+197,Umbreon,['dark'],39.0,59.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/197.png
+198,Murkrow,"['dark', 'flying']",20.0,4.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/198.png
+199,Slowking,"['water', 'psychic']",79.0,175.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/199.png
+200,Misdreavus,['ghost'],28.0,2.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/200.png
+201,Unown,['psychic'],20.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/201.png
+202,Wobbuffet,['psychic'],51.0,62.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/202.png
+203,Girafarig,"['normal', 'psychic']",59.0,91.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/203.png
+204,Pineco,['bug'],24.0,15.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/204.png
+205,Forretress,"['bug', 'steel']",47.0,277.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/205.png
+206,Dunsparce,['normal'],59.0,30.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/206.png
+207,Gligar,"['ground', 'flying']",43.0,142.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/207.png
+208,Steelix,"['steel', 'ground']",413.0,1631.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/208.png
+208,Steelix,"['steel', 'ground']",362.0,881.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/208.png
+209,Snubbull,['fairy'],24.0,17.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/209.png
+210,Granbull,['fairy'],55.0,107.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/210.png
+211,Qwilfish,"['water', 'poison']",20.0,8.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/211.png
+212,Scizor,"['bug', 'steel']",79.0,275.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212.png
+212,Scizor,"['bug', 'steel']",71.0,260.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/212.png
+213,Shuckle,"['bug', 'rock']",24.0,45.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/213.png
+214,Heracross,"['bug', 'fighting']",67.0,137.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/214.png
+214,Heracross,"['bug', 'fighting']",59.0,119.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/214.png
+215,Sneasel,"['dark', 'ice']",35.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/215.png
+216,Teddiursa,['normal'],24.0,19.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/216.png
+217,Ursaring,['normal'],71.0,277.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/217.png
+218,Slugma,['fire'],28.0,77.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/218.png
+219,Magcargo,"['fire', 'rock']",31.0,121.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/219.png
+220,Swinub,"['ice', 'ground']",16.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/220.png
+221,Piloswine,"['ice', 'ground']",43.0,123.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/221.png
+222,Corsola,"['water', 'rock']",24.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/222.png
+223,Remoraid,['water'],24.0,26.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/223.png
+224,Octillery,['water'],35.0,62.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/224.png
+225,Delibird,"['ice', 'flying']",35.0,35.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/225.png
+226,Mantine,"['water', 'flying']",83.0,485.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/226.png
+227,Skarmory,"['steel', 'flying']",67.0,111.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/227.png
+228,Houndour,"['dark', 'fire']",24.0,23.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/228.png
+229,Houndoom,"['dark', 'fire']",75.0,109.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/229.png
+229,Houndoom,"['dark', 'fire']",55.0,77.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/229.png
+230,Kingdra,"['water', 'dragon']",71.0,335.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/230.png
+231,Phanpy,['ground'],20.0,73.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/231.png
+232,Donphan,['ground'],43.0,264.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/232.png
+233,Porygon2,['normal'],24.0,71.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/233.png
+234,Stantler,['normal'],55.0,157.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/234.png
+235,Smeargle,['normal'],47.0,127.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/235.png
+236,Tyrogue,['fighting'],28.0,46.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/236.png
+237,Hitmontop,['fighting'],55.0,105.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/237.png
+238,Smoochum,"['ice', 'psychic']",16.0,13.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/238.png
+239,Elekid,['electric'],24.0,51.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/239.png
+240,Magby,['fire'],28.0,47.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/240.png
+241,Miltank,['normal'],47.0,166.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/241.png
+242,Blissey,['normal'],59.0,103.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/242.png
+243,Raikou,['electric'],75.0,392.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/243.png
+244,Entei,['fire'],83.0,436.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/244.png
+245,Suicune,['water'],79.0,412.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/245.png
+246,Larvitar,"['rock', 'ground']",24.0,158.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/246.png
+247,Pupitar,"['rock', 'ground']",47.0,335.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/247.png
+248,Tyranitar,"['rock', 'dark']",98.0,562.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/248.png
+248,Tyranitar,"['rock', 'dark']",79.0,445.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/248.png
+249,Lugia,"['psychic', 'flying']",205.0,476.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/249.png
+250,Ho-Oh,"['fire', 'flying']",150.0,438.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/250.png
+251,Celebi,"['psychic', 'grass']",24.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/251.png
+252,Treecko,['grass'],20.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/252.png
+253,Grovyle,['grass'],35.0,47.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/253.png
+254,Sceptile,"['grass', 'dragon']",75.0,121.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/254.png
+254,Sceptile,['grass'],67.0,115.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/254.png
+255,Torchic,['fire'],16.0,5.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/255.png
+256,Combusken,"['fire', 'fighting']",35.0,43.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/256.png
+257,Blaziken,"['fire', 'fighting']",75.0,114.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/257.png
+257,Blaziken,"['fire', 'fighting']",75.0,114.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/257.png
+258,Mudkip,['water'],16.0,16.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/258.png
+259,Marshtomp,"['water', 'ground']",28.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/259.png
+260,Swampert,"['water', 'ground']",75.0,224.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/260.png
+260,Swampert,"['water', 'ground']",59.0,180.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/260.png
+261,Poochyena,['dark'],20.0,30.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/261.png
+262,Mightyena,['dark'],39.0,81.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/262.png
+263,Zigzagoon,['normal'],16.0,38.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/263.png
+264,Linoone,['normal'],20.0,71.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/264.png
+265,Wurmple,['bug'],12.0,7.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/265.png
+266,Silcoon,['bug'],24.0,22.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/266.png
+267,Beautifly,"['bug', 'flying']",39.0,62.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/267.png
+268,Cascoon,['bug'],28.0,25.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/268.png
+269,Dustox,"['bug', 'poison']",47.0,69.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/269.png
+270,Lotad,"['water', 'grass']",20.0,5.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/270.png
+271,Lombre,"['water', 'grass']",47.0,71.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/271.png
+272,Ludicolo,"['water', 'grass']",59.0,121.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/272.png
+273,Seedot,['grass'],20.0,8.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/273.png
+274,Nuzleaf,"['grass', 'dark']",39.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/274.png
+275,Shiftry,"['grass', 'dark']",51.0,131.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/275.png
+276,Taillow,"['normal', 'flying']",12.0,5.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/276.png
+277,Swellow,"['normal', 'flying']",28.0,43.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/277.png
+278,Wingull,"['water', 'flying']",24.0,20.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/278.png
+279,Pelipper,"['water', 'flying']",47.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/279.png
+280,Ralts,"['psychic', 'fairy']",16.0,14.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/280.png
+281,Kirlia,"['psychic', 'fairy']",31.0,44.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/281.png
+282,Gardevoir,"['psychic', 'fairy']",63.0,106.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/282.png
+282,Gardevoir,"['psychic', 'fairy']",63.0,106.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/282.png
+283,Surskit,"['bug', 'water']",20.0,3.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/283.png
+284,Masquerain,"['bug', 'flying']",31.0,7.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/284.png
+285,Shroomish,['grass'],16.0,9.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/285.png
+286,Breloom,"['grass', 'fighting']",47.0,86.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/286.png
+287,Slakoth,['normal'],31.0,52.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/287.png
+288,Vigoroth,['normal'],55.0,102.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/288.png
+289,Slaking,['normal'],79.0,287.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/289.png
+290,Nincada,"['bug', 'ground']",20.0,12.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/290.png
+291,Ninjask,"['bug', 'flying']",31.0,26.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/291.png
+292,Shedinja,"['bug', 'ghost']",31.0,2.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/292.png
+293,Whismur,['normal'],24.0,35.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/293.png
+294,Loudred,['normal'],39.0,89.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/294.png
+295,Exploud,['normal'],59.0,185.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/295.png
+296,Makuhita,['fighting'],39.0,190.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/296.png
+297,Hariyama,['fighting'],91.0,559.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/297.png
+298,Azurill,"['normal', 'fairy']",8.0,4.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/298.png
+299,Nosepass,['rock'],39.0,213.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/299.png
+300,Skitty,['normal'],24.0,24.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/300.png
+301,Delcatty,['normal'],43.0,71.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/301.png
+302,Sableye,"['dark', 'ghost']",20.0,354.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/302.png
+302,Sableye,"['dark', 'ghost']",20.0,24.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/302.png
+303,Mawile,"['steel', 'fairy']",39.0,51.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/303.png
+303,Mawile,"['steel', 'fairy']",24.0,25.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/303.png
+304,Aron,"['steel', 'rock']",16.0,132.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/304.png
+305,Lairon,"['steel', 'rock']",35.0,264.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/305.png
+306,Aggron,['steel'],87.0,870.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/306.png
+306,Aggron,"['steel', 'rock']",83.0,793.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/306.png
+307,Meditite,"['fighting', 'psychic']",24.0,24.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/307.png
+308,Medicham,"['fighting', 'psychic']",51.0,69.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/308.png
+308,Medicham,"['fighting', 'psychic']",51.0,69.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/308.png
+309,Electrike,['electric'],24.0,33.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/309.png
+310,Manectric,['electric'],71.0,97.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/310.png
+310,Manectric,['electric'],59.0,88.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/310.png
+311,Plusle,['electric'],16.0,9.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/311.png
+312,Minun,['electric'],16.0,9.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/312.png
+313,Volbeat,['bug'],28.0,39.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/313.png
+314,Illumise,['bug'],24.0,39.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/314.png
+315,Roselia,"['grass', 'poison']",12.0,4.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/315.png
+316,Gulpin,['poison'],16.0,22.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/316.png
+317,Swalot,['poison'],67.0,176.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/317.png
+318,Carvanha,"['water', 'dark']",31.0,45.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/318.png
+319,Sharpedo,"['water', 'dark']",98.0,287.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/319.png
+319,Sharpedo,"['water', 'dark']",71.0,195.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/319.png
+320,Wailmer,['water'],79.0,286.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/320.png
+321,Wailord,['water'],571.0,877.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/321.png
+322,Numel,"['fire', 'ground']",28.0,52.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/322.png
+323,Camerupt,"['fire', 'ground']",98.0,706.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/323.png
+323,Camerupt,"['fire', 'ground']",75.0,485.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/323.png
+324,Torkoal,['fire'],20.0,177.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/324.png
+325,Spoink,['psychic'],28.0,67.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/325.png
+326,Grumpig,['psychic'],35.0,157.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/326.png
+327,Spinda,['normal'],43.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/327.png
+328,Trapinch,['ground'],28.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/328.png
+329,Vibrava,"['ground', 'dragon']",43.0,33.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/329.png
+330,Flygon,"['ground', 'dragon']",79.0,180.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/330.png
+331,Cacnea,['grass'],16.0,113.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/331.png
+332,Cacturne,"['grass', 'dark']",51.0,170.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/332.png
+333,Swablu,"['normal', 'flying']",16.0,2.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/333.png
+334,Altaria,"['dragon', 'fairy']",59.0,45.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/334.png
+334,Altaria,"['dragon', 'flying']",43.0,45.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/334.png
+335,Zangoose,['normal'],51.0,88.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/335.png
+336,Seviper,['poison'],106.0,115.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/336.png
+337,Lunatone,"['rock', 'psychic']",39.0,370.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/337.png
+338,Solrock,"['rock', 'psychic']",47.0,339.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/338.png
+339,Barboach,"['water', 'ground']",16.0,4.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/339.png
+340,Whiscash,"['water', 'ground']",35.0,52.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/340.png
+341,Corphish,['water'],24.0,25.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/341.png
+342,Crawdaunt,"['water', 'dark']",43.0,72.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/342.png
+343,Baltoy,"['ground', 'psychic']",20.0,47.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/343.png
+344,Claydol,"['ground', 'psychic']",59.0,238.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/344.png
+345,Lileep,"['rock', 'grass']",39.0,52.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/345.png
+346,Cradily,"['rock', 'grass']",59.0,133.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/346.png
+347,Anorith,"['rock', 'bug']",28.0,27.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/347.png
+348,Armaldo,"['rock', 'bug']",59.0,150.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/348.png
+349,Feebas,['water'],24.0,16.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/349.png
+350,Milotic,['water'],244.0,357.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/350.png
+351,Castform,['ice'],12.0,1.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png
+351,Castform,['water'],12.0,1.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png
+351,Castform,['fire'],12.0,1.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png
+351,Castform,['normal'],12.0,1.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/351.png
+352,Kecleon,['normal'],39.0,48.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/352.png
+353,Shuppet,['ghost'],24.0,5.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/353.png
+354,Banette,['ghost'],47.0,28.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/354.png
+354,Banette,['ghost'],43.0,27.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/354.png
+355,Duskull,['ghost'],31.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/355.png
+356,Dusclops,['ghost'],63.0,67.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/356.png
+357,Tropius,"['grass', 'flying']",79.0,220.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/357.png
+358,Chimecho,['psychic'],24.0,2.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/358.png
+359,Absol,['dark'],47.0,108.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/359.png
+359,Absol,['dark'],47.0,103.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/359.png
+360,Wynaut,['psychic'],24.0,30.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/360.png
+361,Snorunt,['ice'],28.0,37.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/361.png
+362,Glalie,['ice'],83.0,772.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/362.png
+362,Glalie,['ice'],59.0,565.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/362.png
+363,Spheal,"['ice', 'water']",31.0,87.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/363.png
+364,Sealeo,"['ice', 'water']",43.0,193.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/364.png
+365,Walrein,"['ice', 'water']",55.0,332.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/365.png
+366,Clamperl,['water'],16.0,115.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/366.png
+367,Huntail,['water'],67.0,59.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/367.png
+368,Gorebyss,['water'],71.0,49.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/368.png
+369,Relicanth,"['water', 'rock']",39.0,51.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/369.png
+370,Luvdisc,['water'],24.0,19.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/370.png
+371,Bagon,['dragon'],24.0,92.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/371.png
+372,Shelgon,['dragon'],43.0,243.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/372.png
+373,Salamence,"['dragon', 'flying']",71.0,248.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/373.png
+373,Salamence,"['dragon', 'flying']",59.0,226.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/373.png
+374,Beldum,"['steel', 'psychic']",24.0,209.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/374.png
+375,Metang,"['steel', 'psychic']",47.0,446.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/375.png
+376,Metagross,"['steel', 'psychic']",98.0,2078.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/376.png
+376,Metagross,"['steel', 'psychic']",63.0,1212.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/376.png
+377,Regirock,['rock'],67.0,507.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/377.png
+378,Regice,['ice'],71.0,385.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/378.png
+379,Registeel,['steel'],75.0,451.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/379.png
+380,Latias,"['dragon', 'psychic']",71.0,114.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/380.png
+380,Latias,"['dragon', 'psychic']",55.0,88.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/380.png
+381,Latios,"['dragon', 'psychic']",91.0,154.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381.png
+381,Latios,"['dragon', 'psychic']",79.0,132.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/381.png
+382,Kyogre,['water'],386.0,948.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/382.png
+382,Kyogre,['water'],177.0,776.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/382.png
+383,Groudon,"['ground', 'fire']",197.0,2204.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/383.png
+383,Groudon,['ground'],138.0,2094.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/383.png
+384,Rayquaza,"['dragon', 'flying']",425.0,864.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png
+384,Rayquaza,"['dragon', 'flying']",276.0,455.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/384.png
+385,Jirachi,"['steel', 'psychic']",12.0,2.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/385.png
+386,Deoxys,['psychic'],67.0,134.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png
+386,Deoxys,['psychic'],67.0,134.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png
+386,Deoxys,['psychic'],67.0,134.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png
+386,Deoxys,['psychic'],67.0,134.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/386.png
+387,Turtwig,['grass'],16.0,22.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/387.png
+388,Grotle,['grass'],43.0,213.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/388.png
+389,Torterra,"['grass', 'ground']",87.0,683.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/389.png
+390,Chimchar,['fire'],20.0,13.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/390.png
+391,Monferno,"['fire', 'fighting']",35.0,48.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/391.png
+392,Infernape,"['fire', 'fighting']",47.0,121.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/392.png
+393,Piplup,['water'],16.0,11.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/393.png
+394,Prinplup,['water'],31.0,50.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/394.png
+395,Empoleon,"['water', 'steel']",67.0,186.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/395.png
+396,Starly,"['normal', 'flying']",12.0,4.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/396.png
+397,Staravia,"['normal', 'flying']",24.0,34.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/397.png
+398,Staraptor,"['normal', 'flying']",47.0,54.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/398.png
+399,Bidoof,['normal'],20.0,44.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/399.png
+400,Bibarel,"['normal', 'water']",39.0,69.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/400.png
+401,Kricketot,['bug'],12.0,4.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/401.png
+402,Kricketune,['bug'],39.0,56.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/402.png
+403,Shinx,['electric'],20.0,20.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/403.png
+404,Luxio,['electric'],35.0,67.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/404.png
+405,Luxray,['electric'],55.0,92.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/405.png
+406,Budew,"['grass', 'poison']",8.0,2.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/406.png
+407,Roserade,"['grass', 'poison']",35.0,32.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/407.png
+408,Cranidos,['rock'],35.0,69.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/408.png
+409,Rampardos,['rock'],63.0,226.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/409.png
+410,Shieldon,"['rock', 'steel']",20.0,125.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/410.png
+411,Bastiodon,"['rock', 'steel']",51.0,329.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/411.png
+412,Burmy,['bug'],8.0,7.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/412.png
+412,Burmy,['bug'],8.0,7.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/412.png
+412,Burmy,['bug'],8.0,7.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/412.png
+413,Wormadam,"['bug', 'steel']",20.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/413.png
+413,Wormadam,"['bug', 'ground']",20.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/413.png
+413,Wormadam,"['bug', 'grass']",20.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/413.png
+414,Mothim,"['bug', 'flying']",35.0,51.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/414.png
+415,Combee,"['bug', 'flying']",12.0,12.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/415.png
+416,Vespiquen,"['bug', 'flying']",47.0,84.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/416.png
+417,Pachirisu,['electric'],16.0,8.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/417.png
+418,Buizel,['water'],28.0,65.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/418.png
+419,Floatzel,['water'],43.0,73.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/419.png
+420,Cherubi,['grass'],16.0,7.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/420.png
+421,Cherrim,['grass'],20.0,20.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/421.png
+421,Cherrim,['grass'],20.0,20.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/421.png
+422,Shellos,['water'],12.0,13.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/422.png
+422,Shellos,['water'],12.0,13.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/422.png
+423,Gastrodon,"['water', 'ground']",35.0,65.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/423.png
+423,Gastrodon,"['water', 'ground']",35.0,65.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/423.png
+424,Ambipom,['normal'],47.0,44.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/424.png
+425,Drifloon,"['ghost', 'flying']",16.0,2.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/425.png
+426,Drifblim,"['ghost', 'flying']",47.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/426.png
+427,Buneary,['normal'],16.0,12.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/427.png
+428,Lopunny,"['normal', 'fighting']",51.0,62.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/428.png
+428,Lopunny,['normal'],47.0,73.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/428.png
+429,Mismagius,['ghost'],35.0,9.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/429.png
+430,Honchkrow,"['dark', 'flying']",35.0,60.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/430.png
+431,Glameow,['normal'],20.0,8.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/431.png
+432,Purugly,['normal'],39.0,96.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/432.png
+433,Chingling,['psychic'],8.0,1.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/433.png
+434,Stunky,"['poison', 'dark']",16.0,42.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/434.png
+435,Skuntank,"['poison', 'dark']",39.0,83.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/435.png
+436,Bronzor,"['steel', 'psychic']",20.0,133.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/436.png
+437,Bronzong,"['steel', 'psychic']",51.0,412.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/437.png
+438,Bonsly,['rock'],20.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/438.png
+439,Mime Jr.,"['psychic', 'fairy']",24.0,28.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/439.png
+440,Happiny,['normal'],24.0,53.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/440.png
+441,Chatot,"['normal', 'flying']",20.0,4.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/441.png
+442,Spiritomb,"['ghost', 'dark']",39.0,238.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/442.png
+443,Gible,"['dragon', 'ground']",28.0,45.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/443.png
+444,Gabite,"['dragon', 'ground']",55.0,123.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/444.png
+445,Garchomp,"['dragon', 'ground']",75.0,209.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/445.png
+445,Garchomp,"['dragon', 'ground']",75.0,209.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/445.png
+446,Munchlax,['normal'],24.0,231.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/446.png
+447,Riolu,['fighting'],28.0,44.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/447.png
+448,Lucario,"['fighting', 'steel']",51.0,126.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/448.png
+448,Lucario,"['fighting', 'steel']",47.0,119.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/448.png
+449,Hippopotas,['ground'],31.0,109.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/449.png
+450,Hippowdon,['ground'],79.0,661.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/450.png
+451,Skorupi,"['poison', 'bug']",31.0,26.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/451.png
+452,Drapion,"['poison', 'dark']",51.0,135.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/452.png
+453,Croagunk,"['poison', 'fighting']",28.0,50.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/453.png
+454,Toxicroak,"['poison', 'fighting']",51.0,97.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/454.png
+455,Carnivine,['grass'],55.0,59.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/455.png
+456,Finneon,['water'],16.0,15.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/456.png
+457,Lumineon,['water'],47.0,52.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/457.png
+458,Mantyke,"['water', 'flying']",39.0,143.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/458.png
+459,Snover,"['grass', 'ice']",39.0,111.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/459.png
+460,Abomasnow,"['grass', 'ice']",106.0,407.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/460.png
+460,Abomasnow,"['grass', 'ice']",87.0,298.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/460.png
+461,Weavile,"['dark', 'ice']",43.0,75.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/461.png
+462,Magnezone,"['electric', 'steel']",47.0,396.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/462.png
+463,Lickilicky,['normal'],67.0,308.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/463.png
+464,Rhyperior,"['ground', 'rock']",94.0,623.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/464.png
+465,Tangrowth,['grass'],79.0,283.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/465.png
+466,Electivire,['electric'],71.0,305.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/466.png
+467,Magmortar,['fire'],63.0,149.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/467.png
+468,Togekiss,"['fairy', 'flying']",59.0,83.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/468.png
+469,Yanmega,"['bug', 'flying']",75.0,113.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/469.png
+470,Leafeon,['grass'],39.0,56.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/470.png
+471,Glaceon,['ice'],31.0,57.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/471.png
+472,Gliscor,"['ground', 'flying']",79.0,93.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/472.png
+473,Mamoswine,"['ice', 'ground']",98.0,641.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/473.png
+474,Porygon-Z,['normal'],35.0,75.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/474.png
+475,Gallade,"['psychic', 'fighting']",63.0,124.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/475.png
+475,Gallade,"['psychic', 'fighting']",63.0,114.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/475.png
+476,Probopass,"['rock', 'steel']",55.0,749.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/476.png
+477,Dusknoir,['ghost'],87.0,235.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/477.png
+478,Froslass,"['ice', 'ghost']",51.0,58.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/478.png
+479,Rotom,"['electric', 'grass']",12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png
+479,Rotom,"['electric', 'flying']",12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png
+479,Rotom,"['electric', 'ice']",12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png
+479,Rotom,"['electric', 'water']",12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png
+479,Rotom,"['electric', 'fire']",12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png
+479,Rotom,"['electric', 'ghost']",12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/479.png
+480,Uxie,['psychic'],12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/480.png
+481,Mesprit,['psychic'],12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/481.png
+482,Azelf,['psychic'],12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/482.png
+483,Dialga,"['steel', 'dragon']",213.0,1505.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/483.png
+484,Palkia,"['water', 'dragon']",165.0,740.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/484.png
+485,Heatran,"['fire', 'steel']",67.0,948.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/485.png
+486,Regigigas,['normal'],146.0,925.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/486.png
+487,Giratina,"['ghost', 'dragon']",272.0,1433.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/487.png
+487,Giratina,"['ghost', 'dragon']",177.0,1653.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/487.png
+488,Cresselia,['psychic'],59.0,188.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/488.png
+489,Phione,['water'],16.0,6.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/489.png
+490,Manaphy,['water'],12.0,3.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/490.png
+491,Darkrai,['dark'],59.0,111.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/491.png
+492,Shaymin,"['grass', 'flying']",16.0,11.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/492.png
+492,Shaymin,['grass'],8.0,4.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/492.png
+493,Arceus,['fairy'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['dark'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['dragon'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['ice'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['psychic'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['electric'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['grass'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['water'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['fire'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['steel'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['ghost'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['bug'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['rock'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['ground'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['poison'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['flying'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['fighting'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+493,Arceus,['normal'],126.0,705.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/493.png
+494,Victini,"['psychic', 'fire']",16.0,8.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/494.png
+495,Snivy,['grass'],24.0,17.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/495.png
+496,Servine,['grass'],31.0,35.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/496.png
+497,Serperior,['grass'],130.0,138.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/497.png
+498,Tepig,['fire'],20.0,21.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/498.png
+499,Pignite,"['fire', 'fighting']",39.0,122.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/499.png
+500,Emboar,"['fire', 'fighting']",63.0,330.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/500.png
+501,Oshawott,['water'],20.0,13.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/501.png
+502,Dewott,['water'],31.0,54.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/502.png
+503,Samurott,['water'],59.0,208.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/503.png
+504,Patrat,['normal'],20.0,25.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/504.png
+505,Watchog,['normal'],43.0,59.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/505.png
+506,Lillipup,['normal'],16.0,9.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/506.png
+507,Herdier,['normal'],35.0,32.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/507.png
+508,Stoutland,['normal'],47.0,134.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/508.png
+509,Purrloin,['dark'],16.0,22.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/509.png
+510,Liepard,['dark'],43.0,82.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/510.png
+511,Pansage,['grass'],24.0,23.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/511.png
+512,Simisage,['grass'],43.0,67.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/512.png
+513,Pansear,['fire'],24.0,24.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/513.png
+514,Simisear,['fire'],39.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/514.png
+515,Panpour,['water'],24.0,29.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/515.png
+516,Simipour,['water'],39.0,63.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/516.png
+517,Munna,['psychic'],24.0,51.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/517.png
+518,Musharna,['psychic'],43.0,133.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/518.png
+519,Pidove,"['normal', 'flying']",12.0,4.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/519.png
+520,Tranquill,"['normal', 'flying']",24.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/520.png
+521,Unfezant,"['normal', 'flying']",47.0,63.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/521.png
+522,Blitzle,['electric'],31.0,65.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/522.png
+523,Zebstrika,['electric'],63.0,175.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/523.png
+524,Roggenrola,['rock'],16.0,39.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/524.png
+525,Boldore,['rock'],35.0,224.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/525.png
+526,Gigalith,['rock'],67.0,573.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/526.png
+527,Woobat,"['psychic', 'flying']",16.0,4.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/527.png
+528,Swoobat,"['psychic', 'flying']",35.0,23.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/528.png
+529,Drilbur,['ground'],12.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/529.png
+530,Excadrill,"['ground', 'steel']",28.0,89.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/530.png
+531,Audino,"['normal', 'fairy']",59.0,70.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/531.png
+531,Audino,['normal'],43.0,68.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/531.png
+532,Timburr,['fighting'],24.0,27.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/532.png
+533,Gurdurr,['fighting'],47.0,88.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/533.png
+534,Conkeldurr,['fighting'],55.0,191.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/534.png
+535,Tympole,['water'],20.0,9.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/535.png
+536,Palpitoad,"['water', 'ground']",31.0,37.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/536.png
+537,Seismitoad,"['water', 'ground']",59.0,136.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/537.png
+538,Throh,['fighting'],51.0,122.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/538.png
+539,Sawk,['fighting'],55.0,112.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/539.png
+540,Sewaddle,"['bug', 'grass']",12.0,5.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/540.png
+541,Swadloon,"['bug', 'grass']",20.0,16.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/541.png
+542,Leavanny,"['bug', 'grass']",47.0,45.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/542.png
+543,Venipede,"['bug', 'poison']",16.0,11.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/543.png
+544,Whirlipede,"['bug', 'poison']",47.0,129.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/544.png
+545,Scolipede,"['bug', 'poison']",98.0,442.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/545.png
+546,Cottonee,"['grass', 'fairy']",12.0,1.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/546.png
+547,Whimsicott,"['grass', 'fairy']",28.0,14.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/547.png
+548,Petilil,['grass'],20.0,14.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/548.png
+549,Lilligant,['grass'],43.0,35.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/549.png
+550,Basculin,['water'],39.0,39.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/550.png
+550,Basculin,['water'],39.0,39.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/550.png
+551,Sandile,"['ground', 'dark']",28.0,33.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/551.png
+552,Krokorok,"['ground', 'dark']",39.0,73.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/552.png
+553,Krookodile,"['ground', 'dark']",59.0,212.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/553.png
+554,Darumaka,['fire'],24.0,82.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/554.png
+555,Darmanitan,"['fire', 'psychic']",51.0,204.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/555.png
+555,Darmanitan,['fire'],51.0,204.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/555.png
+556,Maractus,['grass'],39.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/556.png
+557,Dwebble,"['bug', 'rock']",12.0,32.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/557.png
+558,Crustle,"['bug', 'rock']",55.0,440.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/558.png
+559,Scraggy,"['dark', 'fighting']",24.0,26.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/559.png
+560,Scrafty,"['dark', 'fighting']",43.0,66.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/560.png
+561,Sigilyph,"['psychic', 'flying']",55.0,30.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/561.png
+562,Yamask,['ghost'],20.0,3.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/562.png
+563,Cofagrigus,['ghost'],67.0,168.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/563.png
+564,Tirtouga,"['water', 'rock']",28.0,36.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/564.png
+565,Carracosta,"['water', 'rock']",47.0,178.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/565.png
+566,Archen,"['rock', 'flying']",20.0,20.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/566.png
+567,Archeops,"['rock', 'flying']",55.0,70.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/567.png
+568,Trubbish,['poison'],24.0,68.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/568.png
+569,Garbodor,['poison'],75.0,236.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/569.png
+570,Zorua,['dark'],28.0,27.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/570.png
+571,Zoroark,['dark'],63.0,178.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/571.png
+572,Minccino,['normal'],16.0,12.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/572.png
+573,Cinccino,['normal'],20.0,16.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/573.png
+574,Gothita,['psychic'],16.0,12.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/574.png
+575,Gothorita,['psychic'],28.0,39.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/575.png
+576,Gothitelle,['psychic'],59.0,97.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/576.png
+577,Solosis ,['psychic'],12.0,2.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/577.png
+578,Duosion,['psychic'],24.0,17.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/578.png
+579,Reuniclus,['psychic'],39.0,44.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/579.png
+580,Ducklett,"['water', 'flying']",20.0,12.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/580.png
+581,Swanna,"['water', 'flying']",51.0,53.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/581.png
+582,Vanillite,['ice'],16.0,12.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/582.png
+583,Vanillish,['ice'],43.0,90.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/583.png
+584,Vanilluxe,['ice'],51.0,126.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/584.png
+585,Deerling,"['normal', 'grass']",24.0,43.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png
+585,Deerling,"['normal', 'grass']",24.0,43.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png
+585,Deerling,"['normal', 'grass']",24.0,43.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png
+585,Deerling,"['normal', 'grass']",24.0,43.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/585.png
+586,Sawsbuck,"['normal', 'grass']",75.0,203.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png
+586,Sawsbuck,"['normal', 'grass']",75.0,203.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png
+586,Sawsbuck,"['normal', 'grass']",75.0,203.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png
+586,Sawsbuck,"['normal', 'grass']",75.0,203.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/586.png
+587,Emolga,"['electric', 'flying']",16.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/587.png
+588,Karrablast,['bug'],20.0,13.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/588.png
+589,Escavalier,"['bug', 'steel']",39.0,72.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/589.png
+590,Foongus,"['grass', 'poison']",8.0,2.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/590.png
+591,Amoonguss,"['grass', 'poison']",24.0,23.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/591.png
+592,Frillish,"['water', 'ghost']",47.0,72.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/592.png
+593,Jellicent,"['water', 'ghost']",87.0,297.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/593.png
+594,Alomomola,['water'],47.0,69.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/594.png
+595,Joltik,"['bug', 'electric']",4.0,1.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/595.png
+596,Galvantula,"['bug', 'electric']",31.0,31.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/596.png
+597,Ferroseed,"['grass', 'steel']",24.0,41.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/597.png
+598,Ferrothorn,"['grass', 'steel']",39.0,242.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/598.png
+599,Klink,['steel'],12.0,46.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/599.png
+600,Klang,['steel'],24.0,112.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/600.png
+601,Klinklang,['steel'],24.0,178.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/601.png
+602,Tynamo,['electric'],8.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/602.png
+603,Eelektrik,['electric'],47.0,48.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/603.png
+604,Eelektross,['electric'],83.0,177.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/604.png
+605,Elgyem,['psychic'],20.0,19.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/605.png
+606,Beheeyem,['psychic'],39.0,76.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/606.png
+607,Litwick,"['ghost', 'fire']",12.0,6.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/607.png
+608,Lampent,"['ghost', 'fire']",24.0,28.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/608.png
+609,Chandelure,"['ghost', 'fire']",39.0,75.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/609.png
+610,Axew,['dragon'],24.0,39.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/610.png
+611,Fraxure,['dragon'],39.0,79.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/611.png
+612,Haxorus,['dragon'],71.0,232.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/612.png
+613,Cubchoo,['ice'],20.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/613.png
+614,Beartic,['ice'],102.0,573.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/614.png
+615,Cryogonal,['ice'],43.0,326.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/615.png
+616,Shelmet,['bug'],16.0,17.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/616.png
+617,Accelgor,['bug'],31.0,55.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/617.png
+618,Stunfisk,"['ground', 'electric']",28.0,24.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/618.png
+619,Mienfoo,['fighting'],35.0,44.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/619.png
+620,Mienshao,['fighting'],55.0,78.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/620.png
+621,Druddigon,['dragon'],63.0,306.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/621.png
+622,Golett,"['ground', 'ghost']",39.0,202.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/622.png
+623,Golurk,"['ground', 'ghost']",110.0,727.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/623.png
+624,Pawniard,"['dark', 'steel']",20.0,22.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/624.png
+625,Bisharp,"['dark', 'steel']",63.0,154.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/625.png
+626,Bouffalant,['normal'],63.0,208.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/626.png
+627,Rufflet,"['normal', 'flying']",20.0,23.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/627.png
+628,Braviary,"['normal', 'flying']",59.0,90.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/628.png
+629,Vullaby,"['dark', 'flying']",20.0,19.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/629.png
+630,Mandibuzz,"['dark', 'flying']",47.0,87.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/630.png
+631,Heatmor,['fire'],55.0,127.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/631.png
+632,Durant,"['bug', 'steel']",12.0,72.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/632.png
+633,Deino,"['dark', 'dragon']",31.0,38.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/633.png
+634,Zweilous,"['dark', 'dragon']",55.0,110.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/634.png
+635,Hydreigon,"['dark', 'dragon']",71.0,352.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/635.png
+636,Larvesta,"['bug', 'fire']",43.0,63.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/636.png
+637,Volcarona,"['bug', 'fire']",63.0,101.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/637.png
+638,Cobalion,"['steel', 'fighting']",83.0,551.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/638.png
+639,Terrakion,"['rock', 'fighting']",75.0,573.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/639.png
+640,Virizion,"['grass', 'fighting']",79.0,440.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/640.png
+641,Tornadus,['flying'],55.0,138.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/641.png
+641,Tornadus,['flying'],59.0,138.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/641.png
+642,Thundurus,"['electric', 'flying']",118.0,134.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png
+642,Thundurus,"['electric', 'flying']",59.0,134.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/642.png
+643,Reshiram,"['dragon', 'fire']",126.0,727.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/643.png
+644,Zekrom,"['dragon', 'electric']",114.0,760.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/644.png
+645,Landorus,"['ground', 'flying']",51.0,149.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png
+645,Landorus,"['ground', 'flying']",59.0,149.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/645.png
+646,Kyurem,"['dragon', 'ice']",130.0,716.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png
+646,Kyurem,"['dragon', 'ice']",142.0,716.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png
+646,Kyurem,"['dragon', 'ice']",118.0,716.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png
+647,Keldeo,"['water', 'fighting']",55.0,106.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/647.png
+647,Keldeo,"['water', 'fighting']",55.0,106.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/647.png
+648,Meloetta,"['normal', 'fighting']",24.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/648.png
+648,Meloetta,"['normal', 'psychic']",24.0,14.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/648.png
+649,Genesect,"['bug', 'steel']",59.0,181.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/649.png
+650,Chespin,['grass'],16.0,19.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/650.png
+651,Quilladin,['grass'],28.0,63.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/651.png
+652,Chesnaught,"['grass', 'fighting']",63.0,198.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/652.png
+653,Fennekin,['fire'],16.0,20.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/653.png
+654,Braixen,['fire'],39.0,32.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/654.png
+655,Delphox,"['fire', 'psychic']",59.0,86.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/655.png
+656,Froakie,['water'],12.0,15.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/656.png
+657,Frogadier,['water'],24.0,24.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/657.png
+658,Greninja,"['water', 'dark']",59.0,88.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/658.png
+658,Greninja,"['water', 'dark']",59.0,88.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/658.png
+659,Bunnelby,['normal'],16.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/659.png
+660,Diggersby,"['normal', 'ground']",39.0,93.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/660.png
+661,Fletchling,"['normal', 'flying']",12.0,3.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/661.png
+662,Fletchinder,"['fire', 'flying']",28.0,35.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/662.png
+663,Talonflame,"['fire', 'flying']",47.0,54.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/663.png
+664,Scatterbug,['bug'],12.0,5.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/664.png
+665,Spewpa,['bug'],12.0,18.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/665.png
+666,Vivillon,"['bug', 'flying']",47.0,37.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/666.png
+667,Litleo,"['fire', 'normal']",24.0,29.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/667.png
+668,Pyroar,"['fire', 'normal']",59.0,179.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/668.png
+668,Pyroar,"['fire', 'normal']",59.0,179.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/668.png
+669,FlabÃ©bÃ©,['fairy'],4.0,0.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/669.png
+670,Floette,['fairy'],8.0,2.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/670.png
+671,Florges,['fairy'],43.0,22.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/671.png
+672,Skiddo,['grass'],35.0,68.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/672.png
+673,Gogoat,['grass'],67.0,200.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/673.png
+674,Pancham,['fighting'],24.0,17.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/674.png
+675,Pangoro,"['fighting', 'dark']",83.0,299.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/675.png
+676,Furfrou,['normal'],47.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png
+676,Furfrou,['normal'],47.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png
+676,Furfrou,['normal'],47.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png
+676,Furfrou,['normal'],47.0,61.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/676.png
+677,Espurr,['psychic'],12.0,7.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/677.png
+678,Meowstic,['psychic'],24.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/678.png
+678,Meowstic,['psychic'],24.0,18.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/678.png
+679,Honedge,"['steel', 'ghost']",31.0,4.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/679.png
+680,Doublade,"['steel', 'ghost']",31.0,9.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/680.png
+681,Aegislash,"['steel', 'ghost']",67.0,116.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/681.png
+681,Aegislash,"['steel', 'ghost']",67.0,116.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/681.png
+682,Spritzee,['fairy'],8.0,1.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/682.png
+683,Aromatisse,['fairy'],31.0,34.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/683.png
+684,Swirlix,['fairy'],16.0,7.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/684.png
+685,Slurpuff,['fairy'],31.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/685.png
+686,Inkay,"['dark', 'psychic']",16.0,7.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/686.png
+687,Malamar,"['dark', 'psychic']",59.0,103.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/687.png
+688,Binacle,"['rock', 'water']",20.0,68.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/688.png
+689,Barbaracle,"['rock', 'water']",51.0,211.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/689.png
+690,Skrelp,"['poison', 'water']",20.0,16.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/690.png
+691,Dragalge,"['poison', 'dragon']",71.0,179.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/691.png
+692,Clauncher,['water'],20.0,18.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/692.png
+693,Clawitzer,['water'],51.0,77.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/693.png
+694,Helioptile,"['electric', 'normal']",20.0,13.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/694.png
+695,Heliolisk,"['electric', 'normal']",39.0,46.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/695.png
+696,Tyrunt,"['rock', 'dragon']",31.0,57.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/696.png
+697,Tyrantrum,"['rock', 'dragon']",98.0,595.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/697.png
+698,Amaura,"['rock', 'ice']",51.0,55.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/698.png
+699,Aurorus,"['rock', 'ice']",106.0,496.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/699.png
+700,Sylveon,['fairy'],39.0,51.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/700.png
+701,Hawlucha,"['fighting', 'flying']",31.0,47.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/701.png
+702,Dedenne,"['electric', 'fairy']",8.0,4.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/702.png
+703,Carbink,"['rock', 'fairy']",12.0,12.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/703.png
+704,Goomy,['dragon'],12.0,6.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/704.png
+705,Sliggoo,['dragon'],31.0,38.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/705.png
+706,Goodra,['dragon'],79.0,331.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/706.png
+707,Klefki,"['steel', 'fairy']",8.0,6.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/707.png
+708,Phantump,"['ghost', 'grass']",16.0,15.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/708.png
+709,Trevenant,"['ghost', 'grass']",59.0,156.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/709.png
+710,Pumpkaboo,"['ghost', 'grass']",31.0,33.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png
+710,Pumpkaboo,"['ghost', 'grass']",20.0,16.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png
+710,Pumpkaboo,"['ghost', 'grass']",12.0,7.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png
+710,Pumpkaboo,"['ghost', 'grass']",16.0,11.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/710.png
+711,Gourgeist,"['ghost', 'grass']",67.0,86.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png
+711,Gourgeist,"['ghost', 'grass']",43.0,30.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png
+711,Gourgeist,"['ghost', 'grass']",28.0,20.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png
+711,Gourgeist,"['ghost', 'grass']",35.0,27.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/711.png
+712,Bergmite,['ice'],39.0,219.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/712.png
+713,Avalugg,['ice'],79.0,1113.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/713.png
+714,Noibat,"['flying', 'dragon']",20.0,17.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/714.png
+715,Noivern,"['flying', 'dragon']",59.0,187.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/715.png
+716,Xerneas,['fairy'],118.0,474.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/716.png
+717,Yveltal,"['dark', 'flying']",228.0,447.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/717.png
+718,Zygarde,"['dragon', 'ground']",177.0,1344.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png
+718,Zygarde,"['dragon', 'ground']",47.0,73.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png
+718,Zygarde,"['dragon', 'ground']",197.0,672.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/718.png
+719,Diancie,"['rock', 'fairy']",43.0,61.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png
+719,Diancie,"['rock', 'fairy']",28.0,19.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/719.png
+720,Hoopa,"['psychic', 'dark']",256.0,1080.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png
+720,Hoopa,"['psychic', 'ghost']",20.0,19.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/720.png
+721,Volcanion,"['fire', 'water']",67.0,429.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/721.png
+722,Rowlet,"['grass', 'flying']",12.0,3.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/722.png
+723,Dartrix,"['grass', 'flying']",28.0,35.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/723.png
+724,Decidueye,"['grass', 'ghost']",63.0,80.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/724.png
+725,Litten,['fire'],16.0,9.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/725.png
+726,Torracat,['fire'],28.0,55.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/726.png
+727,Incineroar,"['fire', 'dark']",71.0,183.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/727.png
+728,Popplio,['water'],16.0,16.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/728.png
+729,Brionne,['water'],24.0,38.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/729.png
+730,Primarina,"['water', 'fairy']",71.0,97.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/730.png
+731,Pikipek,"['normal', 'flying']",12.0,2.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/731.png
+732,Trumbeak,"['normal', 'flying']",24.0,32.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/732.png
+733,Toucannon,"['normal', 'flying']",43.0,57.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/733.png
+734,Yungoos,['normal'],16.0,13.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/734.png
+735,Gumshoos,['normal'],28.0,31.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/735.png
+736,Grubbin,['bug'],16.0,9.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/736.png
+737,Charjabug,"['bug', 'electric']",20.0,23.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/737.png
+738,Vikavolt,"['bug', 'electric']",59.0,99.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/738.png
+739,Crabrawler,['fighting'],24.0,15.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/739.png
+740,Crabominable,"['fighting', 'ice']",67.0,396.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/740.png
+741,Oricorio,"['ghost', 'flying']",24.0,7.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png
+741,Oricorio,"['psychic', 'flying']",24.0,7.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png
+741,Oricorio,"['electric', 'flying']",24.0,7.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png
+741,Oricorio,"['fire', 'flying']",24.0,7.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/741.png
+742,Cutiefly,"['bug', 'fairy']",4.0,0.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/742.png
+743,Ribombee,"['bug', 'fairy']",8.0,1.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/743.png
+744,Rockruff,['rock'],20.0,20.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/744.png
+745,Lycanroc,['rock'],43.0,55.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/745.png
+745,Lycanroc,['rock'],31.0,55.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/745.png
+746,Wishiwashi,['water'],323.0,173.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/746.png
+746,Wishiwashi,['water'],8.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/746.png
+747,Mareanie,"['poison', 'water']",16.0,17.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/747.png
+748,Toxapex,"['poison', 'water']",28.0,32.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/748.png
+749,Mudbray,['ground'],39.0,242.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/749.png
+750,Mudsdale,['ground'],98.0,2028.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/750.png
+751,Dewpider,"['water', 'bug']",12.0,8.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/751.png
+752,Araquanid,"['water', 'bug']",71.0,180.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/752.png
+753,Fomantis,['grass'],12.0,3.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/753.png
+754,Lurantis,['grass'],35.0,40.8,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/754.png
+755,Morelull,"['grass', 'fairy']",8.0,3.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/755.png
+756,Shiinotic,"['grass', 'fairy']",39.0,25.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/756.png
+757,Salandit,"['poison', 'fire']",24.0,10.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/757.png
+758,Salazzle,"['poison', 'fire']",47.0,48.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/758.png
+759,Stufful,"['normal', 'fighting']",20.0,15.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/759.png
+760,Bewear,"['normal', 'fighting']",83.0,297.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/760.png
+761,Bounsweet,['grass'],12.0,7.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/761.png
+762,Steenee,['grass'],28.0,18.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/762.png
+763,Tsareena,['grass'],47.0,47.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/763.png
+764,Comfey,['fairy'],4.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/764.png
+765,Oranguru,"['normal', 'psychic']",59.0,167.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/765.png
+766,Passimian,['fighting'],79.0,182.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/766.png
+767,Wimpod,"['bug', 'water']",20.0,26.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/767.png
+768,Golisopod,"['bug', 'water']",79.0,238.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/768.png
+769,Sandygast,"['ghost', 'ground']",20.0,154.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/769.png
+770,Palossand,"['ghost', 'ground']",51.0,551.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/770.png
+771,Pyukumuku,['water'],12.0,2.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/771.png
+772,Type: Null,['normal'],75.0,265.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/772.png
+773,Silvally,['normal'],91.0,221.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/773.png
+774,Minior,"['rock', 'flying']",12.0,0.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/774.png
+774,Minior,"['rock', 'flying']",12.0,88.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/774.png
+775,Komala,['normal'],16.0,43.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/775.png
+776,Turtonator,"['fire', 'dragon']",79.0,467.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/776.png
+777,Togedemaru,"['electric', 'steel']",12.0,7.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/777.png
+778,Mimikyu,"['ghost', 'fairy']",8.0,1.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/778.png
+779,Bruxish,"['water', 'psychic']",35.0,41.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/779.png
+780,Drampa,"['normal', 'dragon']",118.0,407.9,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/780.png
+781,Dhelmise,"['ghost', 'grass']",154.0,463.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/781.png
+782,Jangmo-o,['dragon'],24.0,65.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/782.png
+783,Hakamo-o,"['dragon', 'fighting']",47.0,103.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/783.png
+784,Kommo-o,"['dragon', 'fighting']",63.0,172.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/784.png
+785,Tapu Koko,"['electric', 'fairy']",71.0,45.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/785.png
+786,Tapu Lele,"['psychic', 'fairy']",47.0,41.0,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/786.png
+787,Tapu Bulu,"['grass', 'fairy']",75.0,100.3,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/787.png
+788,Tapu Fini,"['water', 'fairy']",51.0,46.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/788.png
+789,Cosmog,['psychic'],8.0,0.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/789.png
+790,Cosmoem,['psychic'],4.0,2204.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/790.png
+791,Solgaleo,"['psychic', 'steel']",134.0,507.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/791.png
+792,Lunala,"['psychic', 'ghost']",157.0,264.6,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/792.png
+793,Nihilego,"['rock', 'poison']",47.0,122.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/793.png
+794,Buzzwole,"['bug', 'fighting']",94.0,735.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/794.png
+795,Pheromosa,"['bug', 'fighting']",71.0,55.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/795.png
+796,Xurkitree,['electric'],150.0,220.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/796.png
+797,Celesteela,"['steel', 'flying']",362.0,2204.4,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/797.png
+798,Kartana,"['grass', 'steel']",12.0,0.2,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/798.png
+799,Guzzlord,"['dark', 'dragon']",217.0,1957.7,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/799.png
+800,Necrozma,['psychic'],94.0,507.1,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/800.png
+801,Magearna,"['steel', 'fairy']",39.0,177.5,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/801.png
